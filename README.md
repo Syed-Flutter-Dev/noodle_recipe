@@ -2,7 +2,7 @@
 Delicious Noodles Recipe!
 
 - 150 gms Chicken boiled and shredded
-- 1 pack Noodles 150 gms pack
+- 100 gms Salt
 - 5-6 cloves Garlic chopped
 - 1 medium White onion thick sliced
 - 3 nos. Green Chillies sliced
